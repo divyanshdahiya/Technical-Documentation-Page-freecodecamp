@@ -103,14 +103,6 @@ code {
 }
 
 
-.footer {
- 
-  padding: 20px;
-  text-align: right;
-  background: #ddd;
-  margin-top: 20px;
-}
-
 @media (max-width: 800px){
   body{
 		background-color: indigo;
